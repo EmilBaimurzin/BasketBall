@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Basketball</string>
+    <string name="pause">Pause</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="game_over">Game over!</string>
+    <string name="score">score</string>
+    <string name="record">record</string>
+    <string name="options">options</string>
+</resources>
